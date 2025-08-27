@@ -1,0 +1,25 @@
+Twitter Mobile Money Analysis Summary
+====================================
+
+Total tweets analyzed: 3470
+Telecom-related tweets: 3357
+Complaints detected: 3691
+Providers identified: mtn, airtel, other
+
+Top complaint categories:
+  - fraud: 431
+  - network: 249
+  - customer_service: 230
+  - service_quality: 205
+  - charges: 137
+  - pin_issues: 129
+  - transaction_issues: 49
+  - account_issues: 39
+
+User-centered issues:
+  - pin_issues: 3
+
+Financial impact:
+  - Total amount reported lost: 1473099495.00
+  - Average amount per incident: 11784795.96
+  - Total financial incidents: 125
