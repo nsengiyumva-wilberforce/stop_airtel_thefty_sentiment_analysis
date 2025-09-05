@@ -95,3 +95,7 @@ The script categorizes complaints into:
 ## Disclaimer
 
 This tool is for research purposes only. Users should comply with Twitter's Terms of Service and applicable laws when collecting and using tweet data.
+
+# running the analysis notebook  
+
+Open Airtel_thefty _analysis.ipynb in your favorite editor and run the cells according, you will need to install some packages using pip.
