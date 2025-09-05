@@ -246,10 +246,6 @@ async def main():
         print("Error: config.ini missing [X] section")
         return
         
-    username = config['X']['username']
-    email = config['X']['email']
-    password = config['X']['password']
-
     # Authentication with better error handling
     max_retries = 3
     for attempt in range(max_retries):
